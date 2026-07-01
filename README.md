@@ -1,4 +1,3 @@
-
 # Music Recommendation System 🎵
 
 A machine learning-based music recommendation engine that groups similar songs using Natural Language Processing (NLP) and Clustering techniques. It features a responsive web interface built with Streamlit.
